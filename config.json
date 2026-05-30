@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfelete",
+        "uuid": 1471808,
+        "checksum": "pgeipw"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
